@@ -13,6 +13,7 @@
 		0A6FC8E6285FCC4100EF20CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A6FC8E4285FCC4100EF20CA /* Main.storyboard */; };
 		0A6FC8E8285FCC4100EF20CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A6FC8E7285FCC4100EF20CA /* Assets.xcassets */; };
 		0A6FC8EB285FCC4100EF20CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A6FC8E9285FCC4100EF20CA /* LaunchScreen.storyboard */; };
+		0A6FC8F3285FD32E00EF20CA /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A6FC8F2285FD32E00EF20CA /* ProfileView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0A6FC8E7285FCC4100EF20CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A6FC8EA285FCC4100EF20CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A6FC8EC285FCC4100EF20CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A6FC8F2285FD32E00EF20CA /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0A6FC8E0285FCC4100EF20CA /* SceneDelegate.swift */,
 				0A6FC8E2285FCC4100EF20CA /* ViewController.swift */,
 				0A6FC8E4285FCC4100EF20CA /* Main.storyboard */,
+				0A6FC8F2285FD32E00EF20CA /* ProfileView.xib */,
 				0A6FC8E7285FCC4100EF20CA /* Assets.xcassets */,
 				0A6FC8E9285FCC4100EF20CA /* LaunchScreen.storyboard */,
 				0A6FC8EC285FCC4100EF20CA /* Info.plist */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A6FC8F3285FD32E00EF20CA /* ProfileView.xib in Resources */,
 				0A6FC8EB285FCC4100EF20CA /* LaunchScreen.storyboard in Resources */,
 				0A6FC8E8285FCC4100EF20CA /* Assets.xcassets in Resources */,
 				0A6FC8E6285FCC4100EF20CA /* Main.storyboard in Resources */,
@@ -294,6 +298,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -321,6 +326,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -16,7 +16,6 @@
 		0A6FC91E2860973900EF20CA /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A6FC91D2860973900EF20CA /* Profile.storyboard */; };
 		0A6FC9202860979700EF20CA /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A6FC91F2860979700EF20CA /* ProfileViewController.swift */; };
 		0A6FC9282861007500EF20CA /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A6FC9272861007500EF20CA /* ProfileView.xib */; };
-		0AB13B4128612AAD00BC9B74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AB13B4028612AAD00BC9B74 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +30,6 @@
 		0A6FC91D2860973900EF20CA /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
 		0A6FC91F2860979700EF20CA /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = SOURCE_ROOT; };
 		0A6FC9272861007500EF20CA /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = SOURCE_ROOT; };
-		0AB13B4028612AAD00BC9B74 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +65,6 @@
 				0A6FC8DE285FCC4100EF20CA /* AppDelegate.swift */,
 				0A6FC8E0285FCC4100EF20CA /* SceneDelegate.swift */,
 				0A6FC8E2285FCC4100EF20CA /* ViewController.swift */,
-				0AB13B4028612AAD00BC9B74 /* Main.storyboard */,
 				0A6FC8E7285FCC4100EF20CA /* Assets.xcassets */,
 				0A6FC8E9285FCC4100EF20CA /* LaunchScreen.storyboard */,
 				0A6FC8EC285FCC4100EF20CA /* Info.plist */,
@@ -138,7 +135,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A6FC8EB285FCC4100EF20CA /* LaunchScreen.storyboard in Resources */,
-				0AB13B4128612AAD00BC9B74 /* Main.storyboard in Resources */,
 				0A6FC9282861007500EF20CA /* ProfileView.xib in Resources */,
 				0A6FC91E2860973900EF20CA /* Profile.storyboard in Resources */,
 				0A6FC8E8285FCC4100EF20CA /* Assets.xcassets in Resources */,

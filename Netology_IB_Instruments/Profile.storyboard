@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kLI-DT-eJ5" userLabel="ProfileView" customClass="ProfileView" customModule="Netology_IB_Instruments" customModuleProvider="target">
-                                <rect key="frame" x="10" y="20" width="393" height="696"/>
+                                <rect key="frame" x="10" y="20" width="394" height="696"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </view>
                         </subviews>
